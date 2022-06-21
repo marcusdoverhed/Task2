@@ -1,2 +1,2 @@
 # Task2
-I will write the worlds most premium program that can and will save the human kind
+On second thought, I will make a small calculation program that can do simple add commands
